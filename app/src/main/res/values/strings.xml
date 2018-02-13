@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobilePetShow</string>
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_activity_produto">ProdutoActivity</string>
+</resources>
